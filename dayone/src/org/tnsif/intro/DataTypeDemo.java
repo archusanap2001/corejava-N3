@@ -11,9 +11,11 @@ public class DataTypeDemo {
 		float c=12/5;
 		float d=5/2.5f;
 		double e=12/5;//2.0 
-		double f=12d/5d;
+		double f=12d/5d;//2.4
 		//character
 		char z='s';
+		
+		
 		int x='c';
 		String name="Archana";
 		boolean y=true;
